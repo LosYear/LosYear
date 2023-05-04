@@ -6,6 +6,7 @@ My areas of interest are:
 - JavaScript infrastructure: tooling, frameworks, and libraries
 - Design Systems and CSS architecture
 - Software development practices
+- Accessibility
 
 
 ## Get in touch
